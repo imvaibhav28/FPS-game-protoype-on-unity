@@ -1,2 +1,2 @@
 # FPS game protoype on unity
- A Rea map based FPS game protoype
+ A Real map based FPS game protoype
